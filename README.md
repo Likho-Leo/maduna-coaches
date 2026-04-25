@@ -1,6 +1,6 @@
-# Maduna Coaches 🚌
+# Maduna Coaches 
 
-A modern, responsive website for **Maduna Coaches** — a professional transport company based in Matatiele, South Africa, offering taxi and bus hire services nationwide.
+A modern, responsive website for **Maduna Coaches**. A professional transport company based in Matatiele, South Africa, offering taxi and bus hire services nationwide.
 
 > ⚠️ **Work in Progress** — This project is currently frontend only. Backend functionality (booking system, form submission, etc.) is yet to be implemented pending further discussion with the client.
 
